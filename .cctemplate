@@ -1,0 +1,17 @@
+{
+    "metadata": {
+        "version": "1"
+    },
+    "templates": [
+        {
+            "path": "hello-world",
+            "name": "Golang Hello World App",
+            "description": "A simple golang sample"
+        },
+        {
+            "path": "kubernetes-custom-sample/nodejs",
+            "name": "Kubernetes Custom Sample - Node.js",
+            "description": "A two-service sample run on Kubernetes"
+        }
+    ]
+}
